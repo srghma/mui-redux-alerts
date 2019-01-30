@@ -41,5 +41,5 @@ jspm_packages
 .vscode
 
 # Lib
-lib
+# lib
 example/lib
